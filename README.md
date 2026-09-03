@@ -34,7 +34,6 @@
 
 <br>
 
-
 ## Carreira
 Do Hello World á aplicação de RAG no Java Agêntico
 
