@@ -4,8 +4,8 @@ public class AlgoritimoCinco {
         System.out.print("Digite um número inteiro: ");
         String resposta = IO.readln();
         int total = Integer.parseInt(resposta);
-        IO.println( 1+ total);
-        IO.println( 1- total);
+        IO.println(total + 1);
+        IO.println( total - 1 );
 
 
     }
