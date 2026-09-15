@@ -1,5 +1,5 @@
 
-public class AlgoritimoCinco {
+public class Algoritimo5 {
     void main(String[] args){
         System.out.print("Digite um número inteiro: ");
         String resposta = IO.readln();

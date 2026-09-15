@@ -1,4 +1,4 @@
-public class AlgoritimoQuatroAl {
+public class Algoritimo4A {
     void main(String[] args) {
         int diaDaSemana = 3;
         String nomeDoDia;

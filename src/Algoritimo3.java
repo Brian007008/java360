@@ -1,4 +1,4 @@
-public class AlgoritimoTres {
+public class Algoritimo3 {
     void main(){
         int nota1, nota2, nota3;
         double media;

@@ -1,4 +1,4 @@
-public class AlgoritimoDois {
+public class Algoritimo2 {
 
     void main(){
         IO.println("Seja bem ao portal Java 360!");

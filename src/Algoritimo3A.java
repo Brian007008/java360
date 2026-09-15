@@ -1,4 +1,4 @@
-public class AlgoritimoTresAl {
+public class Algoritimo3A {
     void main(){
         int chave= Integer.parseInt(IO.readln("Digite o número da chave: "));
         if (chave == 7) {
