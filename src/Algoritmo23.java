@@ -13,6 +13,10 @@ public class Algoritmo23 {
 
         IO.println("Digite o 3° numero:");
         int numero3 = Integer.parseInt(IO.readln());
+
+
     }
+
+
     
 }
