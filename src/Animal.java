@@ -38,13 +38,8 @@ public abstract class Animal {
     public abstract void comer();
     public abstract void tocarSom();
 
-    public String getJavaPorco() {
-        return javaPorco;
+   
     }
 
-    public void setJavaPorco(String javaPorco) {
-        this.javaPorco = javaPorco;
-    }
-
-    }
+    
     

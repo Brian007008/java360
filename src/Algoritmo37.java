@@ -26,9 +26,5 @@ public class Algoritmo37 {
     j.comer();
     j.tocarSom();
 
-    AnimalPorco a = new AnimalPorco("Rock", "Grunhido", "Nhec");
-    IO.println("Nome: " +a.getNome());
-    j.comer();
-    j.tocarSom();
 }
 }
